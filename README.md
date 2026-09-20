@@ -1,13 +1,15 @@
 # Ritam Hazra Portfolio
 
-A responsive, ATS-aligned personal portfolio website for Ritam Hazra.
+Responsive personal portfolio for Power Platform, Power BI, Business Intelligence and Automation roles.
 
-## Run locally
-Open `index.html` in a browser.
+## Files
+- `index.html` — portfolio page
+- `style.css` — responsive styling
+- `Ritam_Hazra_Resume.docx` — downloadable resume
 
-## Publish with GitHub Pages
-1. Create a public GitHub repository, e.g. `ritam-hazra-portfolio`.
-2. Upload `index.html` and `style.css`.
-3. Open **Settings → Pages**.
-4. Select **Deploy from a branch**.
-5. Choose `main` and `/root`, then save.
+## GitHub Pages
+1. Push all files to the `main` branch.
+2. Go to **Settings → Pages**.
+3. Select **Deploy from a branch**.
+4. Choose `main` and `/ (root)`.
+5. Save and open the generated Pages URL.
